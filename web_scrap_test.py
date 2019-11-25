@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 # First method of scrapig, simple and dirty (with requests and regex)
 # # get the data
-# data = requests.get('http://www.mg-cc.org/club-information/club-contacts')
+# data = requests.get('xxxxx')
 #
 # #extract the phone numbers, emails and so on
 #
